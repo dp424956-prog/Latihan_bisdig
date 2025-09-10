@@ -1,12 +1,9 @@
-window.onload = function() {
-     alert('Selamat datang di website Muhammad Alvini
-};
-confirm("Apakah Anda ingin melanjutkan?");
-prompt("Saya Belajar:");
-Date(10)
-parseInt("123")
-setTimeout(function() {
-     alert("saya Pemula.");
-}, 2000);
-function foo() {
-alert("Our function just ran!");
+alert("selamat datang di web dimas!");
+confirm("Apakah kamu ingin melanjutkan?");
+prompt("lanjutkan:","lanjutkan saja");
+function foo() { 
+alert("hihi, hahah!!!!!");
+} foo(); a 
+Date("2024-06-12");
+parseInt("2");
+setTimeout(function(){ alert("Ini adalah alert dari setTimeout"); }, 3000);

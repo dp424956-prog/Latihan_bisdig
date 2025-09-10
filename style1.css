@@ -2,36 +2,40 @@
     width: 760px;
     margin: auto;
     background: red;
-} #main-nav {
-    height: 15px;
-    text-align:center;
-    font-family: Tahoma, Arial, Helvetica, Sans-serif;}
-    #content { 
-        font-family:Tahoma, arial, helvetica, sans-serif; 
-        font-size:14px; 
-        padding: 15px 15px;
-    }
-    
-    #main-nav a{ 
-    color: #df0000; 
-    text-decoration: none;
-    }
-#header { 
-    background: blue; 
-    height: 150px;
-    } 
-    #content { 
-    background: green;
-    } 
-    #footer { 
-    background: orange; 
-    height: 70px;
-    font-family: "Segoe UI";
-    clear:both;
+}
 
-    }
-    #side_bar{
-    background: rgb(240, 4, 4)00; 
-    float:right;
-    width:150px;
-    }
+#main-nav {
+    height: 15px;
+    text-align: center;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+#main-nav a {
+    color: #df0000;
+    text-decoration: none;
+}
+
+#header {
+    background: blue;
+    height: 150px;
+}
+
+#side_bar {
+    background: rgb(240, 4, 4);
+    float: right;
+    width: 150px;
+}
+
+#content {
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 15px;
+    background: green;
+}
+
+#footer {
+    background: orange;
+    height: 70px;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    clear: both;
+}
